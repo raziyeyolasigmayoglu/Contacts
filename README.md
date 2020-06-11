@@ -1,5 +1,5 @@
 # Contacts
-Contact List with React Native FlatList app
+Contacts App with React Native FlatList
 
 API call with Axios, used API --> https://randomuser.me/api
 
